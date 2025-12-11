@@ -1,2 +1,3 @@
-# zero-trust-optical-transport
-Zero-trust optical transport: A tiered architecture for metro network resilience
+zero-trust-optical-transport/
+├── index.html
+└── README.md
